@@ -38,10 +38,10 @@
 
 ## Me encontre nas plataformas de jogos:<br/>
 
-[![epic games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)]()
-[![battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)]() 
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
-[![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
+![epic games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+![battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
+![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
 <ul> 
   <li>Riot Games: lofi mix</li>
