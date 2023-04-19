@@ -47,7 +47,7 @@
   <li>Riot Games: lofi mix</li>
   <li>Battle.net: MeGandalf#1772</li>
   <li>Steam: ANALISTA DE PINPAD</li>
-  <li>Epic Games: MeGandalf:</li>
+  <li>Epic Games: MeGandalf</li>
 </ul>
 
 
