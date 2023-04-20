@@ -9,7 +9,7 @@
 
 ![mluiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mluizuliana&show_icons=true&theme=radical)
 
-[![Top Langs](ttps://github-readme-stats.vercel.app/api/top-langs/?username=mluizuliana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mluizuliana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou estudando:
 
