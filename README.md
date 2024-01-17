@@ -32,9 +32,9 @@
 ![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
 <ul> 
-  <li>Riot Games: lofi mix</li>
+  <li>Riot Games: Didjo #ARAM & dark moon side #ARAM</li>
   <li>Battle.net: MeGandalf#1772</li>
-  <li>Steam: ANALISTA DE PINPAD</li>
+  <li>Steam: Didjo</li>
   <li>Epic Games: MeGandalf</li>
 </ul>
 
