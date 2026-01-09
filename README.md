@@ -4,9 +4,6 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meiganluizuliana/)
 [![spotify](	https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22uq6y2su2igv5zbtsd22izli?si=f296827e5eed4f98)
 
-
-
-
 ## Tecnologias:
 
 <div style=""display: inline_block><br/>
