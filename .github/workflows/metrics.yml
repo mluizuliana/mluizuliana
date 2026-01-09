@@ -17,12 +17,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: mluizuliana
 
-          # visual clean
+          # ⚠️ NÃO esconder base
           template: terminal
-          base: header, repositories
-          config_timezone: America/Sao_Paulo
+          base: ""
 
-          # top languages
+          # 🔥 LANGUAGES (obrigatório assim)
           languages: yes
           languages_limit: 5
           languages_details: percentage
+          languages_threshold: 0%
