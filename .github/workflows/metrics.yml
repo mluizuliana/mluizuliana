@@ -12,12 +12,23 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      # Stats gerais
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: mluizuliana
           template: classic
           base: header, activity, community
-          languages: yes
-          languages_limit: 6
+          filename: metrics.svg
 
+      # Top Languages
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: mluizuliana
+          template: classic
+          base: ""
+          languages: yes
+          languages_details: bytes-size, percentage
+          languages_limit: 6
+          filename: languages.svg
