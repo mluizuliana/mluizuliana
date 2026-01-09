@@ -7,9 +7,9 @@
 [![spotify](	https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22uq6y2su2igv5zbtsd22izli?si=f296827e5eed4f98)
 
 
-![Meus GitHub Stats](https://github-readme-stats.vercel.app/api?username=mluizuliana&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mluizuliana&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mluizuliana&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mluizuliana&layout=compact&theme=tokyonight)
 
 ## Tecnologias:
 
