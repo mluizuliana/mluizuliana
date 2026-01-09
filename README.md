@@ -36,4 +36,10 @@
   <li>Epic Games: MeGandalf</li>
 </ul>
 
+<div align="center">
+
+<img src="./stats.svg" width="49%" />
+<img src="./languages.svg" width="49%" />
+
+</div>
 
