@@ -24,7 +24,7 @@
 ![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
 <ul> 
-  <li>Riot Games: Didjo #ARAM & dark moon side #ARAM</li>
+  <li>Riot Games: conta1: amboo#BRone conta2: amboo#BRtwo conta3: amboo#BRthree </li>
   <li>Battle.net: MeGandalf#1772</li>
   <li>Steam: <a href="https://steamcommunity.com/profiles/76561198339643054/">going under</a></li>
   <li>Epic Games: MeGandalf</li>
