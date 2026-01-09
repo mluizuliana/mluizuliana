@@ -32,14 +32,9 @@
 <ul> 
   <li>Riot Games: Didjo #ARAM & dark moon side #ARAM</li>
   <li>Battle.net: MeGandalf#1772</li>
-  <li>Steam: Didjo</li>
+  <li>Steam: <a href="https://steamcommunity.com/profiles/76561198339643054/">going under</a></li>
   <li>Epic Games: MeGandalf</li>
 </ul>
 
-<div align="center">
 
-<img src="./stats.svg" width="49%" />
-<img src="./languages.svg" width="49%" />
-
-</div>
 
