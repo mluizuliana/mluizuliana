@@ -1,6 +1,6 @@
 # Olá, eu sou o Meigan Uliana 🔥
 
-![Top Langs](https://meu-readme-stats.vercel.app/api/top-langs/?username=mluizuliana)
+![Metrics](https://metrics.lecoq.io/mluizuliana)
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mluizuliana/)
