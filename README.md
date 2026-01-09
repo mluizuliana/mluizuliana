@@ -16,7 +16,7 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div><br>
 
-## Me encontre nas plataformas de jogos:
+## Me encontre nas plataformas de jogos: 
 
 ![epic games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 ![battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
