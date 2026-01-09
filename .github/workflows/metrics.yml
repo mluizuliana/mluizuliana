@@ -17,12 +17,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: mluizuliana
 
-          # ⚠️ NÃO esconder base
+          # ⚠️ Configuração do Template
           template: terminal
           base: ""
 
-          # 🔥 LANGUAGES (obrigatório assim)
-          languages: yes
-          languages_limit: 5
-          languages_details: percentage
-          languages_threshold: 0%
+          # 🔥 LANGUAGES (Configuração corrigida)
+          plugin_languages: yes
+          plugin_languages_limit: 5
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 0%
