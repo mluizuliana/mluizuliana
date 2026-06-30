@@ -24,9 +24,9 @@
 ![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
 <ul> 
-  <li>Riot Games: <a href="https://op.gg/pt/lol/summoners/br/amboo-BRone" target="_blank">amboo#BRone</a> |
-  <a href="https://op.gg/pt/lol/summoners/br/amboo-BRtwo" target="_blank">amboo#BRtwo</a> |
-  <a href="https://op.gg/pt/lol/summoners/br/amboo-BRthree" target="_blank">amboo#BRthree</a></li>
+  <li>Riot Games: <a href="https://op.gg/pt/lol/summoners/br/amboo-BRone" target="_blank">amboo#saw1</a> |
+  <a href="https://op.gg/pt/lol/summoners/br/amboo-BRtwo" target="_blank">amboo#saw2</a> |
+  <a href="https://op.gg/pt/lol/summoners/br/amboo-BRthree" target="_blank">amboo#saw3</a></li>
   <li>Battle.net: MeGandalf#1772</li>
   <li>Steam: <a href="https://steamcommunity.com/profiles/76561198339643054/">going under</a></li>
   <li>Epic Games: MeGandalf</li>
